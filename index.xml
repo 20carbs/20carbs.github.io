@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>20 Carbs</title>
-    <link>http://localhost:1313/</link>
+    <link>https://20carbs.com/</link>
     <description>Recent content on 20 Carbs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Feb 2019 05:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://20carbs.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test Post</title>
-      <link>http://localhost:1313/blog/test-post/</link>
+      <link>https://20carbs.com/blog/test-post/</link>
       <pubDate>Thu, 07 Feb 2019 05:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/test-post/</guid>
+      <guid>https://20carbs.com/blog/test-post/</guid>
       <description>Hello World.
 This is a test post.</description>
     </item>
     
     <item>
       <title>Keto Smoked Ribs</title>
-      <link>http://localhost:1313/blog/keto-smoked-ribs/</link>
+      <link>https://20carbs.com/blog/keto-smoked-ribs/</link>
       <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/keto-smoked-ribs/</guid>
+      <guid>https://20carbs.com/blog/keto-smoked-ribs/</guid>
       <description>These ribs are to die for. I mean, who doesn&amp;rsquo;t love a good rack of ribs. They have the right amount of smoke, and if you are like me, you want them to have a good kick to them. And amazingly, these are low carb Keto Friendly.
 First, I apply a dry rub and let it sit overnight to absorb all of that flavor. When ready to cook, I use the 3-2-1 method.</description>
     </item>
