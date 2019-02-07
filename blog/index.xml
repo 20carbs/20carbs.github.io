@@ -6,10 +6,20 @@
     <description>Recent content in Blogs on 20 Carbs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Feb 2019 05:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test Post</title>
+      <link>http://localhost:1313/blog/test-post/</link>
+      <pubDate>Thu, 07 Feb 2019 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/test-post/</guid>
+      <description>Hello World.
+This is a test post.</description>
+    </item>
     
     <item>
       <title>Keto Smoked Ribs</title>
